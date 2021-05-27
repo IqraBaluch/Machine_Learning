@@ -61,3 +61,7 @@ The point where model is ready to be used and we can give different new inputs t
 Once the code for model is done we need to save the file, that pre trained model’s file can be used anywhere we want to use it. If we only copy the code of course we have to again train the model and do all the process from start, the accuracy changes every time the model is trained. Therefor we use the same model with the best accuracy we have saved. The way we import libraries (import pandas as pd) the same way we import our model and use it. 
 
 # Types of Machine Learning
+There are 3 main types of ML
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning 
