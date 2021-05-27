@@ -65,3 +65,7 @@ There are 3 main types of ML
 1. Supervised Learning
 2. Unsupervised Learning
 3. Reinforcement Learning 
+## •	Supervised learning
+In supervised learning the data is labeled.  You have images of cats and dogs and you provide labels with the images so the model knows these are the images of dog and these are cats. 
+
+
