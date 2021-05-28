@@ -78,3 +78,5 @@ In supervised learning the data is labeled.  You have images of cats and dogs an
 1. Classification
 2. Regression 
 
+##### Classification
+Classification means assigning each data a cetegory.
