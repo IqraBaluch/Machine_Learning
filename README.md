@@ -5,7 +5,7 @@ In the repository I will be sharing my knowledge on AI, its subsets(ML, DL, Data
 # Prerequisites
 1. Python 3
 2. High School mathematics
-3.  16hrs+/week
+3.  16hrs+/week (2 to 2.5 hour/day)
 
 
 # Machine Learning:
