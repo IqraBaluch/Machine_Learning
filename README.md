@@ -85,3 +85,5 @@ Classification means assigning each data a cetegory.
 monday, tuesday, friday<br>
 -Is it cold outside?<br>
 Yes/Nope
+
+Taking an example of supervised learning(labeled data) using "Classification"
