@@ -80,3 +80,8 @@ In supervised learning the data is labeled.  You have images of cats and dogs an
 
 ##### Classification
 Classification means assigning each data a cetegory.
+
+-What day is today? <br>
+monday, tuesday, friday<br>
+-Is it cold outside?<br>
+Yes/Nope
