@@ -131,6 +131,10 @@ Variance<br>
  	=	20<br>
 
 Standard Deviation<br>
+
+![image](https://user-images.githubusercontent.com/57810189/120837717-7d15d280-c580-11eb-9ca8-025089a496f6.png)
+
+
 σ = √20<br>
  = 4.472135955<br>
  
