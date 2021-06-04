@@ -99,9 +99,12 @@ For Ml data is pattern, ML understands patterns from the dataset but if the data
 Why do we use it? It transforms continuous data to normally distributed data. 
 Just a quick glance on data!! 
 There are mainly two types of data
+
 1. Qualitative/Descriptive
 2. Quantitative 
-Quantitative data further has two types 
+
+<b>Quantitative data further has two types</b> 
+
 1. Discrete data
 2. Continuous data
 ![image](https://user-images.githubusercontent.com/57810189/120835898-61113180-c57e-11eb-8622-37f890aa7e78.png)
