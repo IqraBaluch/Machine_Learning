@@ -123,7 +123,7 @@ The mean is 25.
 It is the measurement of how spread out the data points are.  To find std we have to first find mean. 
 Eg :  6 + 4 = 10 / 2 = 5.
 The mean is 25.
-Than calculate the Variance, take each difference, square it, and then average the result:
+Than calculate the Variance, take each difference, square it, and then average the result:<br>
 Variance<br>
 σ2	=	62 - 2 + 42  - 2 / 2<br>
  	=	36 + 4 / 2<br>
