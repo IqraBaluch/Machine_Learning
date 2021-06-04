@@ -114,9 +114,24 @@ There are mainly two types of data
 
 
 So when we have data in continuous form (2.4, 5.3, 6.1, 6,3) and it has high variances and data is not normally distributed  we use “StandardScaler” to form the entire data into normal distribution so that the mean of every data point is Zero and Std is 1. 
-## MEAN: 
+### MEAN: 
 Mean is the average of data, to find out mean of data, we need to add up all the numbers and divide the sum with total number of data points. 
 Eg:  6 + 3 + 100 + 3 + 13 = 125 ÷ 5 = 25.
 The mean is 25.
 
+### Standard Deviation (STD)
+It is the measurement of how spread out the data points are.  To find std we have to first find mean. 
+Eg :  6 + 4 = 10 / 2 = 5.
+The mean is 25.
+Than calculate the Variance, take each difference, square it, and then average the result:
+Variance
+σ2	=	62 - 2 + 42  - 2 / 2
+ 	=	36 + 4 / 2
+ 	=	40/2
+ 	=	20
+
+Standard Deviation
+σ = √20
+ = 4.472135955
+= 4 (to the nearest mm)
 
