@@ -124,14 +124,15 @@ It is the measurement of how spread out the data points are.  To find std we hav
 Eg :  6 + 4 = 10 / 2 = 5.
 The mean is 25.
 Than calculate the Variance, take each difference, square it, and then average the result:
-Variance
-σ2	=	62 - 2 + 42  - 2 / 2
- 	=	36 + 4 / 2
- 	=	40/2
- 	=	20
+Variance<br>
+σ2	=	62 - 2 + 42  - 2 / 2<br>
+ 	=	36 + 4 / 2<br>
+ 	=	40/2<br>
+ 	=	20<br>
 
-Standard Deviation
-σ = √20
- = 4.472135955
+Standard Deviation<br>
+σ = √20<br>
+ = 4.472135955<br>
+ 
 = 4 (to the nearest mm)
 
