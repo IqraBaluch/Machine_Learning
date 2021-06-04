@@ -91,3 +91,18 @@ Yes/Nope
 
 
 # Part_2 : Preprocessing 
+<b> Why do we need preprocessing?</b> Real world data/ raw data we get, is never clean, raw data has dummy data; it needs to be properly cleaned so that the model understands the data and does not get confused. Preprocessing allows us to purify raw data with the use of data cleaning, it is said that the more data is cleaned the more useful insights we get. For the sake of not disturbing Machine Learning’s models’ accuracy we have to first do data preprocessing. 
+### Machine Learning and Data 
+For Ml data is pattern, ML understands patterns from the dataset but if the data has not gone through data processing and data is not cleaned or unscaled so predictions will always be unacceptable. 
+## Preprocessing Techniques 
+# 1. StandardScalling
+Why do we use it? It transforms continuous data to normally distributed data. 
+Just a quick glance on data!! 
+There are mainly two types of data
+1. Qualitative/Descriptive
+2. Quantitative 
+Quantitative data further has two types 
+1. Discrete data
+2. Continuous data
+![image](https://user-images.githubusercontent.com/57810189/120835898-61113180-c57e-11eb-8622-37f890aa7e78.png)
+
