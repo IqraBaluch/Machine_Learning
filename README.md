@@ -140,3 +140,27 @@ Standard Deviation<br>
  
 = 4 (to the nearest mm)
 
+## StandardScalling Example:
+
+Here I have generally created a DataFrame given it some value with ranges,
+Firstly I have just imported required modules with alias,
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/57810189/120841847-72117100-c585-11eb-8b38-c6cbd1426577.png)
+
+ 
+ 
+ 
+Than created a DataFrame using pandas and numpy
+ 
+
+ ![image](https://user-images.githubusercontent.com/57810189/120841883-7b9ad900-c585-11eb-950a-07829dfe0406.png)
+ 
+  
+  
+
+Than visualized it using matplotlib
+ 
+
+
+![image](https://user-images.githubusercontent.com/57810189/120841904-7fc6f680-c585-11eb-8976-9e6475f4bc02.png)
