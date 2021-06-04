@@ -8,7 +8,7 @@ In the repository I will be sharing my knowledge on AI, its subsets(ML, DL, Data
 3.  16hrs+/week (2 to 2.5 hour/day)
 
 
-# Machine Learning:
+# Paer_1 : Introduction of Machine Learning:
 ML is the ability to automatically learn experiences without being forcefully programmed. The term   “Explicitly being programmed” means using if/else condition for every possible situation. In the past when ML wasn’t a subset of AI, problems were being solved by explicit programming. In general as we know that nine (09) digits make 36 possible combinations. So there is a chance that, for a 9 imaged data set we could have to make 36 conditions (if/else/elif). But thanks to Machine Learning we don’t have to work this much hard as ML learns itself and works accordingly, all we need to do is train a model and leave the entire process of learning new things and prediction on model.
 # Traditional Programming VS Machine Learning (AI)
 ### Traditional Programming:
@@ -87,3 +87,7 @@ monday, tuesday, friday<br>
 Yes/Nope
 
 ### <a href="https://iqraanwar.medium.com/machine-learning-the-subset-of-artificial-intelligence-74cd085fae86?source=your_stories_page-------------------------------------">CLICK ON THE HERE FOR MORE DETAILS ABOUT INTRODUCTION OF ML</a>
+
+
+
+# Part_2 : Preprocessing 
