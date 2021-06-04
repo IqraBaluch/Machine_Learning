@@ -107,5 +107,16 @@ There are mainly two types of data
 
 1. Discrete data
 2. Continuous data
+
+
 ![image](https://user-images.githubusercontent.com/57810189/120835898-61113180-c57e-11eb-8622-37f890aa7e78.png)
+
+
+
+So when we have data in continuous form (2.4, 5.3, 6.1, 6,3) and it has high variances and data is not normally distributed  we use “StandardScaler” to form the entire data into normal distribution so that the mean of every data point is Zero and Std is 1. 
+## MEAN: 
+Mean is the average of data, to find out mean of data, we need to add up all the numbers and divide the sum with total number of data points. 
+Eg:  6 + 3 + 100 + 3 + 13 = 125 ÷ 5 = 25.
+The mean is 25.
+
 
