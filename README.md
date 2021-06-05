@@ -167,3 +167,5 @@ Than visualized it using matplotlib
 
 
 This dataset is not real-world data it's just randomly generated, each line has almost 500000 values, and the data is distributed by given different ranges. As the ranges are given from 0 to 10.
+If we want to train this randomly generated data using ML, as this data is really big because it has 500000 values(data points), if ML starts computing this data, the time complexity is faced. Because when we have more data we will require more computational power and more computational power increases time complexity automatically.
+
