@@ -164,3 +164,6 @@ Than visualized it using matplotlib
 
 
 ![image](https://user-images.githubusercontent.com/57810189/120841904-7fc6f680-c585-11eb-8976-9e6475f4bc02.png)
+
+
+This dataset is not real-world data it's just randomly generated, each line has almost 500000 values, and the data is distributed by given different ranges. As the ranges are given from 0 to 10.
