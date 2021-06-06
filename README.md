@@ -170,3 +170,6 @@ This dataset is not real-world data it's just randomly generated, each line has 
 If we want to train this randomly generated data using ML, as this data is really big because it has 500000 values(data points), if ML starts computing this data, the time complexity is faced. Because when we have more data we will require more computational power and more computational power increases time complexity automatically.
 
 StandardScaling not only helps in reducing time complexity by normally distributing data and turning the mean of the dataset to 0 and std to 1 or approx but it also does not compromise features of data and keeps the data in a format that ML understands.
+
+![image](https://user-images.githubusercontent.com/57810189/120935833-162e2000-c71e-11eb-9974-440e110f5854.png)
+
